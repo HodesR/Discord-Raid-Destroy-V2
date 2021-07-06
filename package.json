@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3"
+  },
+  "name": "discord-destroy",
+  "description": "Destroy Tool By HodesR",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
